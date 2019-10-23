@@ -1,0 +1,17 @@
+LAB_12.Enrolle Method get_name
+LAB_12.Enrolle Method set_name
+LAB_12.Enrolle Method get_Age
+LAB_12.Enrolle Method get_CTPoints
+LAB_12.Enrolle Method set_CTPoints
+LAB_12.Enrolle Method DisplayCounter
+LAB_12.Enrolle Method Equals
+LAB_12.Enrolle Method GetHashCode
+LAB_12.Enrolle Method ToString
+System.Object Method GetType
+LAB_12.Enrolle Constructor .ctor
+LAB_12.Enrolle Constructor .ctor
+LAB_12.Enrolle Constructor .ctor
+LAB_12.Enrolle Property name
+LAB_12.Enrolle Property Age
+LAB_12.Enrolle Property CTPoints
+LAB_12.Enrolle Field marks
